@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This repository contains data and scripts related to the analysis of cell movement. It is organized in 4 set of different examples that contains the data and scripts for the analysis of different experimental designs, using data obtained with different Fiji analysis (more info in each specific script) for the analysis of movement of _Abeoforma whisleri_ cells. 
+This repository contains data and scripts related to the analysis of cell movement. It is organized in 4 set of different examples that contains the data and scripts for the analysis of different experimental designs, using data obtained with different Fiji analysis (more info in each specific script) for the analysis of movement of _Abeoforma whisleri_ cells. Work done in collaboration with Multicellgenome Lab, CSIC-UPF. 
 
 ## Folders and Files
 
@@ -40,3 +40,7 @@ This repository contains data and scripts related to the analysis of cell moveme
     - MedusaMovementAnalysis.R - RScript document containing all code used for analyzing the data obtained with
       Fiji and several comments explaining the experimental procedure and different plugins used to obtain 
       and process all data.
+
+## References
+
+Multicellgenome Lab: https://multicellgenome.com/
